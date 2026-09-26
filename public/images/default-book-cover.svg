@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-label="Ảnh bìa mặc định">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d6efd"/><stop offset="1" stop-color="#5b2be0"/></linearGradient></defs>
+  <rect width="600" height="800" rx="24" fill="url(#g)"/>
+  <path d="M165 215h210c33 0 60 27 60 60v300c-30-20-60-30-90-30H165z" fill="#fff" opacity=".94"/>
+  <path d="M165 215h-15c-33 0-60 27-60 60v300c30-20 60-30 90-30h165V215z" fill="#dce9ff" opacity=".94"/>
+  <path d="M300 235v290" stroke="#0d6efd" stroke-width="10" opacity=".55"/>
+  <text x="300" y="665" text-anchor="middle" font-family="Arial,sans-serif" font-size="44" font-weight="700" fill="#fff">THƯ VIỆN</text>
+  <text x="300" y="715" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#eaf2ff">Ảnh bìa sách</text>
+</svg>
